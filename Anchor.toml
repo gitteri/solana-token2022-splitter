@@ -1,0 +1,23 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+splitter = "Gm5A2qTMjz3TMESWvBQoApGm8VuzXF1X2y7DEpJnUpda"
+
+[programs.devnet]
+splitter = "Gm5A2qTMjz3TMESWvBQoApGm8VuzXF1X2y7DEpJnUpda"
+
+[programs.mainnet]
+splitter = "Gm5A2qTMjz3TMESWvBQoApGm8VuzXF1X2y7DEpJnUpda"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "https://devnet.helius-rpc.com/?api-key=e9604835-3240-4967-a7fc-65f741ce56c0"
+wallet = "./test_keypair.json"
+
+[scripts]
+test = "npm run test:anchor"
+client = "npm run client"

@@ -15,7 +15,7 @@ splitter = "Gm5A2qTMjz3TMESWvBQoApGm8VuzXF1X2y7DEpJnUpda"
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "https://devnet.helius-rpc.com/?api-key=e9604835-3240-4967-a7fc-65f741ce56c0"
+cluster = "devnet"
 wallet = "./test_keypair.json"
 
 [scripts]

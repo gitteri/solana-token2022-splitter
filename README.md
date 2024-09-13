@@ -116,6 +116,10 @@ Each exercise has a task marked by a "TODO" flag in one of the three files (lib.
     - This exercise introduces best practices for production-ready Solana programs
     - Explore the new client code that handles things like rebroadcasting, priority fees, and more!
 
+- **Main Branch**: More production practices.
+    - The main branch is a refactored version of the program code from exercise-5.
+    - The refactoring focuses on improving the program's organization, modularity, and maintainability.
+
 ## Additional Resources
 
 To deepen your understanding of Solana development and the tools used in this workshop, check out these resources:

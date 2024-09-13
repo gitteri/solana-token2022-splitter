@@ -7,3 +7,4 @@ node_modules
 test-ledger
 .yarn
 test_keypair.json
+program_id.json
